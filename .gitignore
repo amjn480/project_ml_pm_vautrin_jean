@@ -1,6 +1,5 @@
 /ecb_press_release/
 /utils/
-ecb_press_releases_df.pkl
+ecb_press_releases_link_df.pkl
 /finbert_local/
-df.pkl
 df_score_by_article.pkl
