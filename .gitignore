@@ -3,3 +3,4 @@
 ecb_press_releases_link_df.pkl
 /finbert_local/
 df_score_by_article.pkl
+df_score_by_article_all_dictionary.pkl
